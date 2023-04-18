@@ -6,7 +6,12 @@ const matrizCodigo = [
     ["i", "imes"],
     ["a", "ai"],
     ["o", "ober"],
-    ["u", "ufat"]
+    ["u", "ufat"],
+    ["é", "érx"],
+    ["í", "íto"],
+    ["á", "áyur"],
+    ["ó", "ókier"],
+    ["ú", "únet"]
 ]
 
 function btnEncriptar(){
